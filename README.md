@@ -14,8 +14,10 @@
   <img align="center" alt="Let-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Let-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
  
-  <img align="right" alt="Let-gif" height="100" width="100" src="https://i.picasion.com/pic91/94a58c3ce3ecae251b1a8795a25dabb4.gif">
+  <img align="right" alt="Let-gif" height="150" width="150" src="https://i.picasion.com/pic91/94a58c3ce3ecae251b1a8795a25dabb4.gif">
 </div>
+  
+##
   
 ##
   
