@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/LetRicette">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LetRicette&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LetRicette&show_icons=true&theme=nightowl&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetRicette&layout=compact&langs_count=7&theme=nightowl"/>
     <img align="right" alt="Let-gif" height="170em" width="170em" src="https://i.picasion.com/pic91/94a58c3ce3ecae251b1a8795a25dabb4.gif">
 </div>
